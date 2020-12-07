@@ -1,0 +1,19 @@
+{
+  "name": "properteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "nodemailer": "^6.4.14",
+    "puppeteer": "^5.4.1",
+    "request": "^2.88.2"
+  }
+}
